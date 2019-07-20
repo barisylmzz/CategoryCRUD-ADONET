@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\c# çalışmalar\DataAccess_20190422_Odev\odev\bin\Debug\odev.exe.config
+C:\Users\User\Desktop\c# çalışmalar\DataAccess_20190422_Odev\odev\bin\Debug\odev.exe
+C:\Users\User\Desktop\c# çalışmalar\DataAccess_20190422_Odev\odev\bin\Debug\odev.pdb
+C:\Users\User\Desktop\c# çalışmalar\DataAccess_20190422_Odev\odev\obj\Debug\odev.csprojAssemblyReference.cache
+C:\Users\User\Desktop\c# çalışmalar\DataAccess_20190422_Odev\odev\obj\Debug\odev.Form1.resources
+C:\Users\User\Desktop\c# çalışmalar\DataAccess_20190422_Odev\odev\obj\Debug\odev.Properties.Resources.resources
+C:\Users\User\Desktop\c# çalışmalar\DataAccess_20190422_Odev\odev\obj\Debug\odev.csproj.GenerateResource.cache
+C:\Users\User\Desktop\c# çalışmalar\DataAccess_20190422_Odev\odev\obj\Debug\odev.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\c# çalışmalar\DataAccess_20190422_Odev\odev\obj\Debug\odev.exe
+C:\Users\User\Desktop\c# çalışmalar\DataAccess_20190422_Odev\odev\obj\Debug\odev.pdb
